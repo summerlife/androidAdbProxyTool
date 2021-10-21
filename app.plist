@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://frontmat.qiyi.domain:8080/view/iOS%E5%8A%A8%E7%94%BB%E5%B1%8B/job/iOS_Cartoon_Build_Trunk/9528/artifact/output/IQiYiComic-enterprise_Release_master_2021-10-21_17-12-26.ipa
+http://frontmat.qiyi.domain:8080/view/iOS%E5%8A%A8%E7%94%BB%E5%B1%8B/job/iOS_Cartoon_Build_Trunk/9528/artifact/output/IQiYiComic_dev_Release_master_2021-10-21_17-12-26.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://pic0.iqiyipic.com/lequ/20211021/7291ed354ca54c4d9b748960d13bc038.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://pic1.iqiyipic.com/lequ/20211021/23de300c41e94f7e99420665597a7e43.jpg</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.iqiyi.child</string>
+                <key>bundle-version</key>
+                <string>11.10.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>爱奇艺奇巴布</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
